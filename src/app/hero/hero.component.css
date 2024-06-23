@@ -1,0 +1,34 @@
+.hero {
+  background-color: rgba(0, 126, 44, 0.776);
+  padding: 50px 0;
+}
+
+.custom-carousel {
+  max-width: 100%;
+  height: 100%;
+}
+
+.custom-carousel .carousel-item img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-text {
+  color: white;
+  padding: 0 20px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-text p {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.hero-text .btn {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+}

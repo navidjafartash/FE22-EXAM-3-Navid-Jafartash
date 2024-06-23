@@ -1,0 +1,26 @@
+.feature-box {
+  padding: 30px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 0 15px rgba(17, 31, 186, 0.676);
+  transition: transform 0.3s ease-in-out;
+  height: 100%;
+}
+
+.feature-box:hover {
+  transform: translateY(-10px);
+}
+
+.feature-box i {
+  color: #007bff;
+}
+
+.feature-box h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.feature-box p {
+  font-size: 1.2rem;
+  color: gray;
+}

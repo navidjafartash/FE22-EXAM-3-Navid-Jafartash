@@ -1,0 +1,35 @@
+.about-us-section {
+  margin: 2rem auto;
+  padding: 2rem 0;
+  background-color: #f9f9f9;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #03109e;
+}
+
+.img-fluid {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgb(11, 21, 162);
+}
+
+.icon-title {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  color: #083179;
+}
+
+.icon-title i {
+  margin-right: 0.5rem;
+  color: #0a20c1c8;
+}
+
+.about-us-section p {
+  color: #656060;
+  margin: 1rem 0;
+}
